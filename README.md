@@ -1,6 +1,6 @@
 # CodeWars-Python
 Hello and Welcome! 
-My names Shaheen Ghazazani, www.shaiwanghazazani.com(blog), and a Carleton University second year computer science student. 
+My names Shaheen Ghazazani, www.shaiwanghazazani.com (blog), and a Carleton University second year computer science student. 
 
 I will be using three main repos;
 
